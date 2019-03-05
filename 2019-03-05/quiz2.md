@@ -4,16 +4,12 @@ What method would I use?
 
 Choose the correct answer below:
 
-    A
-    join. It's on strings.
-    B
-    split. It's on strings.
-    C
-    split. It's on lists.
-    D
-    join. It's on lists.
+A join. It's on strings.
+B split. It's on strings.
+C split. It's on lists.
+D join. It's on lists.
 
-# 2.
+# 2
 
 I saw a pretty great shirt today.
 
@@ -42,4 +38,3 @@ C
 ```python
 python text.join("&")
 ```
-
