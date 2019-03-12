@@ -22,4 +22,3 @@ C
 row = bradys[1]
 row[2]
 ```
-
